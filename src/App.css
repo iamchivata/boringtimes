@@ -1,0 +1,63 @@
+
+.whattodo{
+  margin-top:120px;
+  margin-bottom: 30px;
+  background-color: #c20021;
+  width: 150px;
+  height: 140px;
+  border:2px solid #bfe4e4;
+  border-radius: 50%;
+  color:white;
+  text-align: center;
+  font-size:28px;
+}
+
+
+button:focus {
+ outline-style: none;
+}
+
+.col-xl-6{
+  background-color: #c20021;
+  width: 200px;
+  height: 100px;
+  color:white;
+  border-radius: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+
+.suggestion{
+ padding-top: 35px;
+}
+
+
+button:hover{ 
+  border:none;
+}
+
+
+button:active{
+  border:none;
+}
+
+
+.bored{
+  margin-top:30px;
+  color:white;
+  font-size: 45px;
+}
+
+
+.byme{
+  margin-top: 190px;
+}
+
+
+
+
+
+
+
+
