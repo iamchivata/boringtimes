@@ -18,4 +18,4 @@ api:
 
 -------------------------------------
 -------------------------------------
-you can see it [here](http://boringtimes.ir/)
+you can see this funny single page [here](http://boringtimes.ir/)
