@@ -1,4 +1,4 @@
-This funny weekendly project is prepared to suggest you doing something when you are bored.
+This funny project is prepared to suggest you doing something when you are bored.
 
 
 programming language :
