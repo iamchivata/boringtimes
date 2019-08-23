@@ -11,4 +11,4 @@ libraries:
 api:
 [boredapi](https://www.boredapi.com/)
 
-you can see my single page [here](http://boringtimes.ir/)
+you can see it [here](http://boringtimes.ir/)
