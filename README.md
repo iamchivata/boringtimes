@@ -9,4 +9,4 @@ libraries:
 `bootstrap`
 
 api:
-`[boreaapi](https://www.boredapi.com/)`
+`[boredapi](https://www.boredapi.com/)`
