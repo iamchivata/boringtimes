@@ -1,4 +1,4 @@
-This funny project is prepared to suggest you doing something when you are bored.
+This funny project is prepared to suggest you something to do when you are bored.
 
 
 programming language :
