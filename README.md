@@ -10,5 +10,6 @@ libraries:
 
 api:
 [boredapi](https://www.boredapi.com/)
-
+-------------------------------------
+-------------------------------------
 you can see it [here](http://boringtimes.ir/)
