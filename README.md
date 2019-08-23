@@ -9,4 +9,6 @@ libraries:
 `bootstrap`
 
 api:
-`[boredapi](https://www.boredapi.com/)`
+[boredapi](https://www.boredapi.com/)
+
+you can see my single page [here](http://boringtimes.ir/)
