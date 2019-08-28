@@ -1,21 +1,3 @@
-This funny project is prepared to suggest you something to do when you are bored.
+# [Boringtimes :doughnut:](http://boringtimes.ir/)
 
--------------------------------------
--------------------------------------
-programming language :
-`javascript`
-
--------------------------------------
--------------------------------------
-libraries:
-`Reactjs`
-`bootstrap`
-
--------------------------------------
--------------------------------------
-api:
-[boredapi](https://www.boredapi.com/)
-
--------------------------------------
--------------------------------------
-you can see this funny single page [here](http://boringtimes.ir/)
+It's a hobby project in JavaScript and React, you are welcome to contribute.
